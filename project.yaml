@@ -1,0 +1,296 @@
+title: >
+  <span style="background-color: rgba(26, 47, 94, 0.75); padding: 10px; color: white; border-radius: 5px;">
+    DiAgnostiK Lehr- und Lernraum
+  </span>
+
+comment: >
+  <br>
+  <span style="background-color: rgba(201, 168, 76, 0.75); padding: 8px; color: white; border-radius: 5px;">
+    Übersicht
+  </span>
+
+logo: ./assets/img/slogan_hero.jpg
+
+navbar:
+  brand: >
+    <span>
+    <img src="./assets/img/Logo_234px.png" style="height:28px;object-fit:contain;margin-right:8px;" alt="DiAgnostiK Logo">
+    DiAgnostiK
+    </span>
+  url: "index.html"
+  background: "#1A2F5E"
+  theme: dark
+  links:
+    - label: Tischlerei
+      url: https://ifi-diagnostik-project.github.io/Tischlerei
+    - label: Sanitär, Heizung, Klima (SHK)
+      url: https://ifi-diagnostik-project.github.io/Sanitaer-Heizung-Klima/
+    - label: Zahntechnik
+      url: https://ifi-diagnostik-project.github.io/Zahntechnik
+    - label: Malerhandwerk
+      url: https://ifi-diagnostik-project.github.io/Malerhandwerk
+    - label: Raumaustattung
+      url: https://ifi-diagnostik-project.github.io/Raumausstatter
+    - label: Belehrungen
+      url: "belehrungen.html"
+    - label: Arbeits- und Gesundheitsschutz
+      url: "arbeits-und-gesundheitsschutz.html"
+    - label: Umfragen
+      url: "umfragen.html"
+    - label: Wissensspeicher
+      url: "wissensspeicher.html"
+    - label: Experimente
+      url: "experimente.html"
+    - label: Sonstige
+      url: "sonstige.html"
+
+footer: >
+  <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
+    <div>
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Webseite</div>
+      <a href="https://uelu-digital.de/" class="fw-semibold text-decoration-none" style="color:#C9A84C;">uelu-digital.de</a>
+    </div>
+    <div class="text-center">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Gefördert durch</div>
+      <img src="./assets/img/Kombi-EU-SN-horizontal.jpg" style="height:44px;max-width:100%;object-fit:contain;">
+    </div>
+    <div class="text-md-end">
+      <div class="text-uppercase small mb-1" style="letter-spacing:.07em;font-size:.72em;">Unsere Partner</div>
+      <div class="d-flex flex-wrap gap-2 align-items-center justify-content-md-end">
+        <a href="https://www.gkz-ev.de/"><img src="./assets/img/gkz.jpg" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="GKZ"></a>
+        <a href="https://www.hwk-dresden.de/"><img src="./assets/img/hwk.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="HWK Dresden"></a>
+        <a href="https://tu-freiberg.de/"><img src="./assets/img/tubaf.png" style="height:40px;object-fit:contain;border-radius:4px;opacity:.8;" class="img-fluid" alt="TU Bergakademie Freiberg"></a>
+      </div>
+    </div>
+  </div>
+
+meta:
+  title: DiAgnostiK – Digitaler Lehr- und Lernraum für das Handwerk
+  description: >
+    Der DiAgnostiK Lernraum bietet interaktive, branchenspezifische Lernmodule
+    für Tischler, SHK, Zahntechniker, Maler, Raumausstatter und weitere
+    Handwerksberufe – gefördert durch die EU und den Freistaat Sachsen.
+
+# Main course collection
+collection:
+  - html: >
+      <div style="padding: 20px; background-color: rgba(26, 47, 94, 0.1); border-radius: 8px; margin: 20px 0;">
+        <h2>🏠 Willkommen im DiAgnostiK Lernraum</h2>
+        <p>
+          Der <strong>DiAgnostiK Lehr- und Lernraum</strong> stellt interaktive, digitale Lernmaterialien
+          für die berufliche Ausbildung im Handwerk bereit – entwickelt in Zusammenarbeit mit der
+          Handwerkskammer Dresden und der TU Bergakademie Freiberg.
+        </p>
+        <p>
+          Wählen Sie eine Berufsgruppe aus der Navigation, um zu den passenden Lerneinheiten zu gelangen.
+          Alle Kurse sind kostenlos zugänglich und können direkt im Browser genutzt werden.
+        </p>
+      </div>
+
+  - title: Tischlerei
+    link: https://ifi-diagnostik-project.github.io/Tischlerei
+    comment: >
+      Beschreibung: Lerneinheiten für Tischler: Holzarten, Werkzeuge, Verbindungen und Grundlagen der Holzbearbeitung für die Ausbildung im Tischlerhandwerk.
+      <br>
+      <i>17 Kurse</i>
+
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/tischler.png
+    tags: 
+      - arbeitssicherheit
+      - bghm
+      - gefahrstoffe
+      - gestellbau
+      - ghm
+      - holz
+      - holzarten
+      - holzbau
+      - holzbearbeitungsmaschinen
+      - holzfügearten
+      - holzverbindung
+      - holzverbindungskonstruktionen
+      - holzverbindungstechniken
+      - korpusbau
+      - lacke
+      - möbelbau
+      - oberflächenveredelung
+      - rahmenbau
+      - schleifen
+      - schreiner
+      - tischler
+      - verbindungstechnik
+      - ölen
+
+  - title: Sanitär, Heizung, Klima (SHK)
+    link: https://ifi-diagnostik-project.github.io/Sanitaer-Heizung-Klima
+    comment: >
+      Beschreibung: Lerneinheiten für SHK: Arbeitsschutz, Gesundheitsschutz und Grundlagen der Anlagenmechanik.
+      <br>
+      <i>4 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/shk.png
+    tags:
+      - anlagenmechaniker
+      - arbeitsschutz
+      - gesundheitsschutz
+      - grundkurs
+      - shk
+
+  - title: Zahntechnik
+    link: https://ifi-diagnostik-project.github.io/Zahntechnik
+    comment: >
+      Beschreibung: Lerneinheiten für Zahntechniker: Zahnersatz, Zahnprothese und verwandte Themen.
+      <br>
+      <i>8 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/zahntechniker.png
+    tags:
+      - cad
+      - cad-schiene
+      - cam
+      - design
+      - doppelkrone
+      - dreisatz
+      - einbettmassen
+      - fräs- und verblendtechniken
+      - fräsen
+      - kieferorthopädie
+      - konstruktion
+      - krone
+      - primärteleskop
+      - prothese
+      - prothetik
+      - verblendung
+      - zahnersatz
+      - zahnklammer
+      - zahnprothese
+      - zahntechniker
+      - zahntechnische werkstücke
+
+  - title: Malerhandwerk
+    link: https://ifi-diagnostik-project.github.io/Malerhandwerk
+    comment: >
+      Beschreibung: Lerneinheiten für Maler: Grundlagen, Techniken und Materialien für die Ausbildung im Malerhandwerk.
+      <br>
+      <i>4 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/maler.png
+    tags:
+      - altanstrich
+      - armierungsmasse
+      - aufmaß
+      - fassade
+      - grundkurs
+      - handwerk
+      - kleister
+      - lackierer
+      - makulatur
+      - maler
+      - raumausstatter
+      - raumgestaltung
+      - schleifen
+      - spachteln
+      - strukturputz
+      - tapeten
+      - tapezieren
+      - tapezierwerkzeuge
+      - untertapete
+      - verbundsystem
+      - vorrichten
+      - werkzeuge
+      - wärme-dämm-verbundsystem
+      - wärmedämmung
+
+  - title: Raumausstattung
+    link: https://ifi-diagnostik-project.github.io/Raumausstattung
+    comment: >
+      Beschreibung: Lerneinheiten für Raumausstatter: Design, Materialien und Techniken für die Ausbildung im Raumausstatterhandwerk.
+      <br>
+      <i>8 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/raumausstatter.png
+    tags:
+      - altanstrich
+      - aufmaß
+      - bleichen
+      - bügeln
+      - gestellbau
+      - handwerk
+      - holz
+      - holzgestelle
+      - holzverbindung
+      - kleister
+      - lackierer
+      - makulatur
+      - maler
+      - polsterei
+      - polstergestellbau
+      - polstergestelle
+      - polstermöbel
+      - polstern
+      - raumausstatter
+      - schleifen
+      - spachteln
+      - tapeten
+      - tapezieren
+      - textilpflege
+      - trocknen
+      - untertapete
+      - waschen
+      - werkstoffe
+
+  - title: Belehrungen
+    link: belehrungen.html
+    comment: >
+      Beschreibung: Lerneinheiten für Belehrungen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+      <br>
+      <i>2 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/belehrungen.png
+    tags:
+      - Belehrungen
+
+
+  - title: Arbeits- und Gesundheitsschutz
+    link: arbeits-und-gesundheitsschutz.html
+    comment: >
+      Beschreibung: Lerneinheiten für Arbeits- und Gesundheitsschutz: Sicherheit und Gesundheit im Arbeitsumfeld.
+      <br>
+      <i>6 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/arbeitsschutz.png
+    tags:
+      - arbeitssicherheit
+      - brandschutzzeichen
+      - gesundheitsschutz
+      - leitern
+      - sicherheitszeichen
+
+  - title: Umfragen
+    link: umfragen.html
+    comment: >
+      Beschreibung: Lerneinheiten für Umfragen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
+      <br>
+      <i>3 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/umfragen.png
+    tags:
+      - Umfragen
+      - Teilnehmerbefragung
+
+  - title: Wissensspeicher
+    link: wissensspeicher.html
+    comment: >
+      Beschreibung: Sammlung von Kursvorlagen und Templates.
+      <br>
+      <i>14 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/wissensspeicher.png
+    tags:
+      - arbeitssicherheit
+      - gefahrstoffe
+      - gesundheitsschutz
+      - wissensspeicher
+
+  - title: Experimente
+    link: experimente.html
+    comment: >
+      Beschreibung: Experimentelle Elemente und Kurse.
+      <br>
+      <i>6 Kurse</i>
+    logo: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/ifi-diagnostik-project.github.io/refs/heads/main/assets/img/experimente.png
+    tags:
+      - experimente
+      - konva
+      - tsm
