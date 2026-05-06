@@ -32,7 +32,7 @@ navbar:
     - label: Raumaustattung
       url: https://ifi-diagnostik-project.github.io/Raumausstatter
     - label: Belehrungen
-      url: "belehrungen.html"
+      url: https://ifi-diagnostik-project.github.io/Belehrung
     - label: Arbeits- und Gesundheitsschutz
       url: https://ifi-diagnostik-project.github.io/Arbeits--und-Gesundheitsschutz
     - label: Umfragen
@@ -234,7 +234,7 @@ collection:
       - werkstoffe
 
   - title: Belehrungen
-    link: belehrungen.html
+    link: https://ifi-diagnostik-project.github.io/Belehrung
     comment: >
       Beschreibung: Lerneinheiten für Belehrungen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
       <br>
