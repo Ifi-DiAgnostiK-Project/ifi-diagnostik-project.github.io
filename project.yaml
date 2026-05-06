@@ -34,15 +34,14 @@ navbar:
     - label: Belehrungen
       url: "belehrungen.html"
     - label: Arbeits- und Gesundheitsschutz
-      url: "arbeits-und-gesundheitsschutz.html"
+      url: https://ifi-diagnostik-project.github.io/Arbeits--und-Gesundheitsschutz
     - label: Umfragen
-      url: "umfragen.html"
+      url: https://ifi-diagnostik-project.github.io/Befragungen
     - label: Wissensspeicher
-      url: "wissensspeicher.html"
+      url: https://ifi-diagnostik-project.github.io/Wissensspeicher
     - label: Experimente
-      url: "experimente.html"
-    - label: Sonstige
-      url: "sonstige.html"
+      url: https://ifi-diagnostik-project.github.io/Experimente
+
 
 footer: >
   <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 py-1 w-100">
@@ -246,7 +245,7 @@ collection:
 
 
   - title: Arbeits- und Gesundheitsschutz
-    link: arbeits-und-gesundheitsschutz.html
+    link: https://ifi-diagnostik-project.github.io/Arbeits--und-Gesundheitsschutz
     comment: >
       Beschreibung: Lerneinheiten für Arbeits- und Gesundheitsschutz: Sicherheit und Gesundheit im Arbeitsumfeld.
       <br>
@@ -260,7 +259,7 @@ collection:
       - sicherheitszeichen
 
   - title: Umfragen
-    link: umfragen.html
+    link: https://ifi-diagnostik-project.github.io/Befragungen
     comment: >
       Beschreibung: Lerneinheiten für Umfragen: Informationen und Schulungen für die berufliche Ausbildung im Handwerk.
       <br>
@@ -271,7 +270,7 @@ collection:
       - Teilnehmerbefragung
 
   - title: Wissensspeicher
-    link: wissensspeicher.html
+    link: https://ifi-diagnostik-project.github.io/Wissensspeicher
     comment: >
       Beschreibung: Sammlung von Kursvorlagen und Templates.
       <br>
@@ -284,7 +283,7 @@ collection:
       - wissensspeicher
 
   - title: Experimente
-    link: experimente.html
+    link: https://ifi-diagnostik-project.github.io/Experimente
     comment: >
       Beschreibung: Experimentelle Elemente und Kurse.
       <br>
